@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Laurah0ly20/README.md
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+- 👋 Hi, I’m Laurah/README.md
+- 👀 I’m interested in ...( HTML,CSS,c++,python,javascript front-end, back-end).
+- 🌱 I’m currently learning ...( HTML,CSS,c++,back-end,javascript).
+- 💞️ I’m looking to collaborate on ...(HTML.CSS,back-end).
+- 📫 How to reach me.N°:(+55 11 93958-9837) & Email:(laurah.maria2021@icloud.com).
 <!---
-Laurah0ly20/Laurah0ly20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+My name is Laurah, I'm 15 years old and I've been learning to program for 2 months, already hired for January 2024 in a company.
 --->
