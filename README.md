@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Laurah/README.md
-- 👀 I’m interested in ...( HTML,CSS,c++,python,javascript front-end, back-end).
+- 👀 I’m interested in ...( HTML,CSS,c++,python,javascript front-end, back-end,fullstack).
 - 🌱 I’m currently learning ...( HTML,CSS,c++,back-end,javascript).
 - 💞️ I’m looking to collaborate on ...(HTML.CSS,back-end).
 - 📫 How to reach me.N°:(+55 11 93958-9837) & Email:(laurah.maria2021@icloud.com).
